@@ -1,0 +1,12 @@
+.Sezione {
+    display: flex;
+    justify-content: center;
+}
+
+.Col01 {
+    width: 100%;
+}
+
+.Col02 {
+    width: 100%;
+}

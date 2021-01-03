@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  background: #262626;
+  color: white;
+}
+
+.Col1 {
+  width: 50%;
+  height: 100vh;
+  border-right: solid 1.5px #535353;
+}
+
+.Col2 {
+  width: 50%;
+  height: 100vh;
+  border-left: solid 1.5px #535353;
+}
