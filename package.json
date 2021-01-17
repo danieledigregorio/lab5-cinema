@@ -1,6 +1,7 @@
 {
   "name": "prova2",
   "version": "0.1.0",
+  "homepage": "https://www.danieledigregorio.it/cg/lab5-cinema/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.8",
