@@ -7,6 +7,12 @@ at [Politecnico di Torino](https://www.polito.it/).
 
 Visit [this site](https://www.danieledigregorio.it/cg/lab5-cinema) to test the app.
 
+## Dependencies installed
+
+* React Bootstrap
+  ```
+  npm i bootstrap react-bootstrap --save
+  ```
 
 
 #
